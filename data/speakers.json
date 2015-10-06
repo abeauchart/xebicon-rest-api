@@ -1,0 +1,487 @@
+[
+  {
+    "id": "1",
+    "conferenceId": 19,
+    "lang": "fr",
+    "blog": "http://blog.xebia.fr/author/jburet/",
+    "tweetHandle": "@julienBuret",
+    "imageURL": "http://www.xebicon.fr/images/speaker/julien_buret.png",
+    "company": "Xebia",
+    "bio": "<p>Julien Buret CTO de Xebia France. Il dispose d'une vaste expérience dans l'écosystème Java EE et Big Data. Julien intervient principalement dans la mise en place de solutions Big Data auprès des grands comptes dans les télécoms, la finance, les jeux en ligne etc.</p>",
+    "lastName": "Buret",
+    "firstName": "Julien"
+    },
+
+  {
+    "id": "2",
+    "conferenceId": 19,
+    "lang": "fr",
+    "blog": "http://blog.xebia.fr/author/jpthiery/",
+    "tweetHandle": "@jpthiery",
+    "imageURL": "http://www.xebicon.fr/images/speaker/jean_pascal_thiery.jpg",
+    "company": "Xebia",
+    "bio": "<p>Java Craftsman et agiliste pratiquant. Jean-Pascal a arpenté les voies de l'intégration continue jusqu'à intégrer la mouvance DevOps. Il aime : Java, Docker, Mesos, et la qualité des livrables. Il n'aime pas : les phrases qui commence par 'Normalement, ...'</p>",
+    "lastName": "Thiery",
+    "firstName": "Jean-Pascal"
+  },
+
+  {
+    "id": "3",
+    "conferenceId": 19,
+    "lang": "fr",
+    "blog": "http://organisationarchitecture.blogspot.fr/",
+    "tweetHandle": "@ycaseau",
+    "imageURL": "http://www.xebicon.fr/images/speaker/yves_caseau.jpg",
+    "company": "Axa",
+    "bio": "<p>Ayant rejoint le groupe Axa en 2014, Yves Caseau dirige la Digital Agency d'Axa et est en charge de l'accélération du développement des produits et des services digitaux pour les entités du groupe, en particulier sur les terminaux mobiles. Il se charge également du renforcement de l'innovation au service des clients et de l'amélioration des synergies technologiques et digitales, aux côtés des équipes IT.</p>",
+    "lastName": "Caseau",
+    "firstName": "Yves"
+  },
+
+  {
+    "id": "4",
+    "conferenceId": 19,
+    "lang": "fr",
+    "blog": null,
+    "tweetHandle": "@jfcaenen",
+    "imageURL": "http://www.xebicon.fr/images/speaker/jean_francois_caenen.jpg",
+    "company": "Ingenico",
+    "bio": "<p>Avec plus de 25 ans d’expérience en ingénierie de produits logiciels, en projets d’intégration et en conseil en architecture de Système d’Information, Jean-François CAENEN dirige actuellement la R&D Terminal Solutions du Groupe Ingenico. Pionnier des architectures d’intégration et fervent adepte des pratiques agiles, il est passionné par l’articulation entre la technologie et la différenciation métier ou marché. Diplômé de l’Ecole Polytechnique et de Sup Telecom Paris Tech, il a travaillé successivement pour Sesa, Digital Equipement, Atos et Capgemini avant de rejoindre Ingenico.</p>",
+    "lastName": "Caenen",
+    "firstName": "Jean-François"
+  },
+
+  {
+    "id": "5",
+    "conferenceId": 19,
+    "lang": "fr",
+    "blog": "http://blog.xebia.fr/author/njozwiak/",
+    "tweetHandle": "@njozwiak",
+    "imageURL": "http://www.xebicon.fr/images/speaker/nicolas_jozwiak.png",
+    "company": "Xebia",
+    "bio": "<p>Nicolas est un ingénieur d'études confirmé disposant de 10 ans d'expérience de conception et développement sur technologies Java/JEE. Son parcours chez un éditeur avant son entrée chez Xebia lui a notamment permis de développer de solides compétences dans le domaine de la qualité et de l’industrialisation (tests, intégration continue, gestion de configuration, contrôle qualité). Nicolas est Directeur de projet chez Xebia Studio et bénéficie d’une expérience très solide de mise en place des méthodes agiles et d’accompagnement d’équipe sur le terrain. Il est reconnu pour son approche pragmatique, proactive et pédagogique.</p>",
+    "lastName": "Jozwiak",
+    "firstName": "Nicolas"
+  },
+
+  {
+    "id": "6",
+    "conferenceId": 19,
+    "lang": "fr",
+    "blog": "http://viteinfinite.com/",
+    "tweetHandle": "@viteinfinite",
+    "imageURL": "http://www.xebicon.fr/images/speaker/simone_civetta.png",
+    "company": "Xebia",
+    "bio": "<p>Simone est responsable technique des équipes mobilités chez Xebia. Depuis 2010, il a élaboré et développé de nombreuses applications Business-to-Business et Business-to-Consumer pour iPhone, iPad et Apple Watch. Pionnier de Swift, à partir de fin 2014, il utilise uniquement le nouveau langage Apple dans l'intégralité de ses développements mobiles. Passionné par les innovations technologiques et, en particulier, par les plateformes mobiles ainsi que l’expérience utilisateur, Simone est un contributeur reconnu dans la communauté mobile francophone.</p>",
+    "lastName": "Civetta",
+    "firstName": "Simone"
+  },
+
+  {
+    "id": "7",
+    "conferenceId": 19,
+    "lang": "fr",
+    "blog": "http://fabienmirault.fr/",
+    "tweetHandle": null,
+    "imageURL": "http://www.xebicon.fr/images/speaker/fabien_mirault.png",
+    "company": "Xebia",
+    "bio": "<p>Développeur iOS depuis plus de 4 ans, Fabien a eu l'occasion de réaliser de nombreuses missions innovantes disposant d'une forte audience. Initialiement développeur AS3 (Flash / AIR), il reste curieux de tout ce qui se fait dans le milieu du mobile pour toujours chercher à en tirer des enseignements pour les projets futurs.</p>",
+    "lastName": "Mirault",
+    "firstName": "Fabien"
+  },
+
+  {
+      "id": "8",
+      "conferenceId": 19,
+      "lang": "fr",
+      "blog": null,
+      "tweetHandle": "@edemorgoli",
+      "imageURL": "http://www.xebicon.fr/images/speaker/eric_demorgoli.jpg",
+      "company": "Axa Tech",
+      "bio": "<p>N/C</p>",
+      "lastName": "De Morgoli",
+      "firstName": "Eric"
+   },
+
+  {
+         "id": "9",
+         "conferenceId": 19,
+         "lang": "fr",
+         "blog": "http://blog.xebia.fr/author/aphelip/ ",
+         "tweetHandle": "@AlbanPhelip",
+         "imageURL": "http://www.xebicon.fr/images/speaker/alban_phelip.jpeg",
+         "company": "Xebia",
+         "bio": "<p>Alban est Data Engineer chez Xebia. Issu d'une formation en statistiques il s'est spécialisé dans l'ingéniérie des données. Ses outils préférés : Spark et R. Speaker et bloggeur, il se passionne par tout ce qui touche de près ou de loin au Big Data et à la Data Science.</p>",
+         "lastName": "Phélip",
+         "firstName": "Alban"
+  },
+
+  {
+           "id": "10",
+           "conferenceId": 19,
+           "lang": "fr",
+           "blog": "http://blog.xebia.fr/author/ybenoit/",
+           "tweetHandle": "@YoannBENOIT",
+           "imageURL": "http://www.xebicon.fr/images/speaker/yoann_benoit.png",
+           "company": "Xebia",
+           "bio": "<p>Data Scientist, membre du Datalab de Xebia, il a une forte affinité pour le Machine Learning et le framework Spark.</p>",
+           "lastName": "Benoit",
+           "firstName": "Yoann"
+  },
+
+  {
+      "id": "11",
+      "conferenceId": 19,
+      "lang": "fr",
+      "blog": "http://blog.wescale.fr/",
+      "tweetHandle": "@aurelienmaury",
+      "imageURL": "http://www.xebicon.fr/images/speaker/aurelien_maury.png",
+      "company": "WeScale",
+      "bio": "<p>Au cours de sa carrière en ESN, Aurélien a acquis une forte expérience dans le développement d'applications web, l'architecture de SI et l'utilisation de plate-formes Cloud. Les missions qu'il a eu à remplir, notamment pour Xebia, l'ont amenées à analyser et optimiser de nombreux et variés environnements clients. Ses domaines de prédilections : performance, monitoring, intégration au SI, automatisation, DevOps et plate-formes Cloud. Son credo : 'Make it work, Make it right, Make it fast'.</p>",
+      "lastName": "Maury",
+      "firstName": "Aurélien"
+   },
+
+   {
+        "id": "12",
+        "conferenceId": 19,
+        "lang": "fr",
+        "blog": "http://blog.wescale.fr/",
+        "tweetHandle": null,
+        "imageURL": "http://www.xebicon.fr/images/speaker/seven_le_mesle.png",
+        "company": "WeScale",
+        "bio": "<p>Bénéficiant d'une double formation réseau numérique et développement applicatif, Séven se passionne pour les pratiques DevOps et les solutions cloud. Fort de son expérience d'architecte applicatif et d'expert performance pour Xebia, il imagine et réalise des projets autant innovants qu'ambitieux pour des grands comptes (Publicis, SFR, Voyages-sncf.com, etc.). Son credo : 'Aucun plan ne survit à son implémentation !' Séven favorise le travail par incrément, en mettant à l'épreuve les solutions en continu.</p>",
+        "lastName": "Le Mesle",
+        "firstName": "Séven"
+   },
+
+ {
+         "id": "13",
+         "conferenceId": 19,
+         "lang": "fr",
+         "blog": null,
+         "tweetHandle": null,
+         "imageURL": "http://www.xebicon.fr/images/speaker/frederic_masson.jpg",
+         "company": "SGCIB",
+         "bio": "<p>Responsable du Lean IT et Agile au sein de la Société Générale Corporate and Investment Banking Depuis 2009 Directeur d'un programme pluriannuel visant à changer la façon dont l'informatique fonctionne, grâce au déploiement de Lean Management et des principes Agile. Responsable d'une pratique de coaching de gestion Agile et Lean (interne).</p>",
+         "lastName": "Masson",
+         "firstName": "Frédéric"
+    },
+
+    {
+            "id": "14",
+            "conferenceId": 19,
+            "lang": "fr",
+            "blog": "http://blog.xebia.fr/author/crochas/",
+            "tweetHandle": "@crochas",
+            "imageURL": "http://www.xebicon.fr/images/speaker/Clement_Rochas.png",
+            "company": "Xebia",
+            "bio": "<p>Clément est consultant spécialisé dans les process agiles, il intervient comme coach agile lors de mission de conduite du changement sur des grands comptes: CA-CIB, SFR, Europcar, Michelin, fdj.fr. Son expérience s’est faite sur le terrain comme développeur et comme Scrum Master.</p>",
+            "lastName": "Rochas",
+            "firstName": "Clément"
+    },
+
+
+    {
+                "id": "15",
+                "conferenceId": 19,
+                "lang": "fr",
+                "blog": null,
+                "tweetHandle": null,
+                "imageURL": "http://www.xebicon.fr/images/speaker/denis_weiss.jpg",
+                "company": "Docapost",
+                "bio": "<p>Après 10 ans d’organisation et de gestion du changement dans le monde industriel, Denis Weiss a dirigé différentes DSI, avant de rejoindre La Poste pour développer et déployer un nouveau système de tri automatisé. Connecté à plus de 300 machines industrielles, à plusieurs milliers de flasheurs manuels et au smartphone du facteur, ce système trie l’ensemble du courrier de La Poste, et permet de centraliser et d’analyser les informations associées à l’aide de plusieurs outils big-data. Denis pilote aujourd’hui la réalisation du Hub Numérique chez Docapost, une des activités clefs de la Branche Numérique de La Poste.</p>",
+                "lastName": "Weiss",
+                "firstName": "Denis"
+        },
+
+
+   {
+            "id": "16",
+            "conferenceId": 19,
+            "lang": "fr",
+            "blog": "http://nantern.com/",
+            "tweetHandle": "@mNantern",
+            "imageURL": "http://www.xebicon.fr/images/speaker/matthieu_nantern.JPG",
+            "company": "Xebia",
+            "bio": "<p>Matthieu est un consultant Java senior spécialisé dans le Big Data, DevOps et la performance des applications. Disposant de plus de 7 ans d'expérience, il s'est spécialisé ces dernières années dans le conseil en développements et l'administration autour d'Apache Cassandra. Utilisateur depuis plus de 4 ans, il travaille actuellement sur une plateforme à forte volumétrie utilisant exclusivement Apache Cassandra pour le stockage des données.</p>",
+            "lastName": "Nantern",
+            "firstName": "Matthieu"
+    },
+
+    {
+                "id": "17",
+                "conferenceId": 19,
+                "lang": "fr",
+                "blog": "http://blog.xebia.fr/author/xbucchiotty",
+                "tweetHandle": "@xbucchiotty",
+                "imageURL": "http://www.xebicon.fr/images/speaker/xavier_bucchiotty.png",
+                "company": "Xebia",
+                "bio": "<p>Xavier est un développeur passionné Java/Scala chez Xebia. Il développe depuis bientôt 10 ans. Il a découvert Akka et Scala en conférence il y a trois ans. Depuis, il ne cesse de creuser le sujet et de partager son enthousiasme sur cet écosystème, aussi bien en interne qu'en conférence. Cela lui permet notamment d'apporter de nouvelles solutions aux défis techniques qui lui sont posés aujourd'hui. Adepte des méthodes agiles, il est aussi un fervent défenseur des pratiques XP.</p>",
+                "lastName": "Bucchiotty",
+                "firstName": "Xavier"
+    },
+
+    {
+                    "id": "18",
+                    "conferenceId": 19,
+                    "lang": "fr",
+                    "blog": "http://www.scoop.it/t/tech-by-matthieublanc",
+                    "tweetHandle": "@matthieublanc",
+                    "imageURL": "http://www.xebicon.fr/images/speaker/matthieu_blanc.jpg",
+                    "company": "Xebia",
+                    "bio": "<p>Matthieu Blanc est un expert Java et consultant senior dans le domaine du Big Data. Disposant de plus de 9 ans d'expérience, Matthieu est spécialisé sur l'écosytème Hadoop, MapReduce, Pig, Hive, Impala et Spark. Il intervient depuis plus d'un an en tant que responsable technique pour un Big Data Incubator dans le domaine des assurances.</p>",
+                    "lastName": "Blanc",
+                    "firstName": "Matthieu"
+    },
+
+      {
+        "id": "19",
+        "conferenceId": 19,
+        "lang": "fr",
+        "blog": "http://blog.cellenza.com/",
+        "tweetHandle": "@Miiitch",
+        "imageURL": "http://www.xebicon.fr/images/speaker/michel_perfetti.jpg",
+        "company": "Cellenza",
+        "bio": "<p>Michel Perfetti travaille depuis 2006 sur les problématiques d'industrialisation sur la plateforme Microsoft. Il est MVP depuis 2006, MVP Visual Studio ALM depuis 2010 et ALM Rangers. Michel est également Manager du pôle ALM chez Cellenza. Il intervient en tant que consultant sur des problématiques d'architecture ou développement ainsi que des problématiques liées aux méthodologies de travail et à l'Agilité.</p>",
+        "lastName": "Perfetti",
+        "firstName": "Michel"
+      },
+
+    {
+      "id": "20",
+      "conferenceId": 19,
+      "lang": "fr",
+      "blog": null,
+      "tweetHandle": null,
+      "imageURL": "http://www.xebicon.fr/images/speaker/marie_laure_casse.jpg",
+      "company": "Voyages-SNCF.com",
+      "bio": "<p>Directrice marketing digital de Voyages-sncf.com depuis mai 2011, Marie-Laure Cassé a d'abord rejoint le groupe en juillet 2010 au poste de directrice fidélisation et responsable marketing clients chez Voyages-sncf.com. Auparavant, elle a exercé plusieurs fonctions au département marketing de La Fnac. Marie-Laure Cassé est diplômée de l'ESCP Europe.</p>",
+      "lastName": "Cassé",
+      "firstName": "Marie-Laure"
+    },
+
+    {
+          "id": "21",
+          "conferenceId": 19,
+          "lang": "fr",
+          "blog": "http://blog.thiga.fr/author/alexandre-irrmann-teze/",
+          "tweetHandle": "@AlexandreIT1",
+          "imageURL": "http://www.xebicon.fr/images/speaker/alexandre_irrmann_teze.jpg",
+          "company": "Thiga",
+          "bio": "<p>Alexandre est diplômé de Télécom Paristech et est titulaire du mastère Digital Business d’HEC. Avant de créer Thiga, Alexandre a travaillé dans les équipes Télécom & Media de deux cabinets de conseil. Spécialisé en marketing stratégique et organisation, il a notamment réalisé des études d’opportunité de lancement d’offres (Cloud Computing, 4G…) et a cadré un programme visant à diffuser le design thinking au sein d’un opérateur télécom. Alexandre a également travaillé dans une start-up où il a lancé un service numérique à destination des e-commerçants. Au sein de Thiga, Alexandre intervient en tant que coach Produit et expert marketing stratégique.</p>",
+          "lastName": "Irrmann-Tézé",
+          "firstName": "Alexandre"
+    },
+
+    {
+              "id": "22",
+              "conferenceId": 19,
+              "lang": "fr",
+              "blog": null,
+              "tweetHandle": null,
+              "imageURL": "http://www.xebicon.fr/images/speaker/bertrand_rojat.jpg",
+              "company": "Orange",
+              "bio": "<p>Avec un parcours de plus de 15 ans dans les télécommunications, l’informatique et le web. Diplômé de l’école Polytechnique et de l’école Télécom Paris, et ayant travaillé en France et aux Etats Unis, exerçant des responsabilités aussi bien dans des domaines techniques que stratégiques, marketing, développement d’affaire et ventes. Récemment, chez Orange Business Services, il a été successivement directeur de l’unité d’affaire en charge des activités de service d’infrastructures informatiques pour les clients entreprises et grand comptes en France, et directeur marketing du marché professionnel avec en particulier les lancements du Cloud pro et d’une nouvelle génération de Livebox pro. Aujourd'hui au Téchnocentre, qui est l'entité du groupe Orange qui développe et lance les nouveaux produit de l'opérateur présent dans plus de 30 pays, il participe aux grandes transformations dont le groupe Orange a besoin pour garder une place de leader sur le marché des communications, de l'Internet et des données.</p>",
+              "lastName": "Rojat",
+              "firstName": "Bertrand"
+    },
+
+    {
+                  "id": "23",
+                  "conferenceId": 19,
+                  "lang": "fr",
+                  "blog": null,
+                  "tweetHandle": null,
+                  "imageURL": null,
+                  "company": "Orange",
+                  "bio": "<p>N/C</p>",
+                  "lastName": "Derville",
+                  "firstName": "Franck"
+    },
+
+    {
+                      "id": "24",
+                      "conferenceId": 19,
+                      "lang": "fr",
+                      "blog": "http://blog.xebia.fr/author/bmoitie/",
+                      "tweetHandle": "@BenjaminMoitie",
+                      "imageURL": "http://www.xebicon.fr/images/speaker/benjamin_moitie.png",
+                      "company": "Xebia",
+                      "bio": "<p>Benjamin est un coach et formateur Agile expert disposant de plus de 14 ans d'expérience. Il a contribué à la transformation agile à grande échelle auprès de nombreuses sociétés françaises de renom (banques d'investissement, assurances, audiovisuel, aéronautique,industrie etc). Il est spécialiste du modèle SAFe et est un des premiers formateurs francophones agréé par la Scaled Agile Academy. Benjamin est un contributeur chevronné dans l'écosystème francophone agile et à récemment co-présenté 'SAFe vs Spotify' lors du ScrumDay 2015.</p>",
+                      "lastName": "Moitié",
+                      "firstName": "Benjamin"
+    },
+
+    {
+                          "id": "25",
+                          "conferenceId": 19,
+                          "lang": "fr",
+                          "blog": "http://blog.xebia.fr/author/ptandia",
+                          "tweetHandle": "@patandia",
+                          "imageURL": "http://www.xebicon.fr/images/speaker/paali_tandia.JPG",
+                          "company": "Xebia",
+                          "bio": "<p>Paali est ingénieur data et formateur Xebia training sur les technologies big data. Intéressé par les sujets qui touchent à l’ensemble de la pile logicielle, il se passionne pour des problématiques liées à la conception de compilateurs, mais également au machine learning à l’échelle en passant par le web et la réalité virtuelle. A ses heures perdues, il a contribué quelques patchs pour le moteur javascript de Firefox (Spidermonkey).</p>",
+                          "lastName": "Tandia",
+                          "firstName": "Paali"
+    },
+
+    {
+                              "id": "26",
+                              "conferenceId": 19,
+                              "lang": "fr",
+                              "blog": "http://www.akamis.com/blog/",
+                              "tweetHandle": "@scoussement",
+                              "imageURL": "http://www.xebicon.fr/images/speaker/stephane_coussement.jpg",
+                              "company": "Akamis",
+                              "bio": "<p>Après plus de 20 ans d’expérience en tant que CTO et CEO, ce passionné du Digital a décidé de bousculer les codes du marketing et de l‘acquisition.</p>",
+                              "lastName": "Coussement",
+                              "firstName": "Stéphane"
+    },
+
+    {
+                              "id": "27",
+                              "conferenceId": 19,
+                              "lang": "fr",
+                              "blog": "http://blog.xebia.fr/author/pvardanega/",
+                              "tweetHandle": "@pvardanega",
+                              "imageURL": "http://www.xebicon.fr/images/speaker/pierre_jean_vardanega.png",
+                              "company": "Xebia",
+                              "bio": "<p>Passionné par les technologies Java/JEE et mobile depuis sa sortie de l'ENSSAT, Pierre-Jean Vardanéga est aujourd'hui consultant chez Xebia. Il intervient en mission où l'agilité fait foi. Il est également attentif à l'actualité mobile, notamment au système d'exploitation Android et son intégration en entreprise.</p>",
+                              "lastName": "Vardanega",
+                              "firstName": "Pierre-Jean"
+    },
+
+    {
+                                  "id": "28",
+                                  "conferenceId": 19,
+                                  "lang": "fr",
+                                  "blog": "http://blog.xebia.fr/author/slemerdy/",
+                                  "tweetHandle": null,
+                                  "imageURL": "http://www.xebicon.fr/images/speaker/sebastian_le_merdy.jpeg",
+                                  "company": "Xebia",
+                                  "bio": "<p>Sébastian est entré chez Xebia en 2011 pour mettre en pratique le Software Development Done Right. Il est passionné par le développement logiciel et les technologies innovantes et le met au service de l'utilisateur final à travers l'agilité dans les projets. Vous pourrez peut-être le rencontrer lors d'un coding dojo ou une présentation de live coding.</p>",
+                                  "lastName": "Le Merdy",
+                                  "firstName": "Sébastian"
+    },
+
+    {
+                                      "id": "29",
+                                      "conferenceId": 19,
+                                      "lang": "fr",
+                                      "blog": "https://xebialabs.com/",
+                                      "tweetHandle": "@bmoussaud",
+                                      "imageURL": "http://www.xebicon.fr/images/speaker/benoit_moussaud.jpg",
+                                      "company": "Xebia",
+                                      "bio": "<p>Avec 15 ans d’expérience dans les technologies Java EE, du développement à l’architecture d’applications d’entreprise complexes, un de mes sujets de prédilection a toujours été l’automatisation : tout d’abord côté développement dans le cadre de ma participation au projet Ant et sur le sujet de l’intégration continue, puis plus récemment dans le monde Devops avec l’automatisation des déploiements applicatifs en tant que Directeur Technique chez XebiaLabs. Pour moi, les outils ne sont pas une fin en soi : culture de l’agilité et Scrum, partage et collaboration, automatisation et mesure permanente sont les clés d’une transition réussie vers DevOps et le Continuous Delivery chez nos clients.</p>",
+                                      "lastName": "Moussaud",
+                                      "firstName": "Benoit"
+     },
+
+
+   {
+                                         "id": "30",
+                                         "conferenceId": 19,
+                                         "lang": "fr",
+                                         "blog": null,
+                                         "tweetHandle": null,
+                                         "imageURL": "http://www.xebicon.fr/images/speaker/nicolas_bourgeois.png",
+                                         "company": "Société Générale",
+                                         "bio": "<p>IT Manager Finance à la Société Générale</p>",
+                                         "lastName": "Bourgeois",
+                                         "firstName": "Nicolas"
+   },
+
+  {
+                                           "id": "31",
+                                           "conferenceId": 19,
+                                           "lang": "fr",
+                                           "blog": "http://www.ux-republic.com/blog/",
+                                           "tweetHandle": null,
+                                           "imageURL": "http://www.xebicon.fr/images/speaker/Antoine_Visonneau.jpg",
+                                           "company": "UX-Republic",
+                                           "bio": "<p>Directeur associé de UX-Republic et UX-Evangelist</p>",
+                                           "lastName": "Visonneau",
+                                           "firstName": "Antoine"
+  },
+
+  {
+                                             "id": "32",
+                                             "conferenceId": 19,
+                                             "lang": "fr",
+                                             "blog": "http://blog.xebia.fr/author/nlochet/",
+                                             "tweetHandle": "@nicolaslochet",
+                                             "imageURL": "http://www.xebicon.fr/images/speaker/nicolas_lochet.jpg",
+                                             "company": "Xebia",
+                                             "bio": "<p>Nicolas Lochet est expert en coaching d'équipes et organisation vers l'Agilité depuis des niveaux de direction de projet jusqu'aux niveaux exécutifs. Speaker en conférence, écrivain, blogueur, formateur et facilitateur graphique pour partager/enseigner l'être Agile.</p>",
+                                             "lastName": "Lochet",
+                                             "firstName": "Nicolas"
+  },
+
+  {
+                                               "id": "33",
+                                               "conferenceId": 19,
+                                               "lang": "fr",
+                                               "blog": "http://blog.xebia.fr/author/dlemos/",
+                                               "tweetHandle": "@dlresende",
+                                               "imageURL": "http://www.xebicon.fr/images/speaker/diego_lemos.jpg",
+                                               "company": "Xebia",
+                                               "bio": "<p>Diego Lemos est consultant en informatique chez Xebia. Il a travaillé avec diverses technologies, comme C#, Java, JavaScript, entre autres. Actuellement, il accompagne des équipes agiles dans le but de les aider à produire des logiciels de qualité et les délivrer plus fréquemment.</p>",
+                                               "lastName": "Lemos",
+                                               "firstName": "Diego"
+    },
+
+  {
+                                                 "id": "34",
+                                                 "conferenceId": 19,
+                                                 "lang": "fr",
+                                                 "blog": "http://blog.xebia.fr/author/ahebert/",
+                                                 "tweetHandle": "@dijxdream",
+                                                 "imageURL": "http://www.xebicon.fr/images/speaker/alexandre_hebert.jpg",
+                                                 "company": "Xebia",
+                                                 "bio": "<p>Développeur Full Stack depuis 3 ans, Alexandre a une connaissance approfondie de nombreux langages et frameworks. Curieux de comprendre le 'comment ça fonctionne' plutôt que de simplement 'utiliser', c'est avec cet état d'esprit qu'il évolue depuis près d'un an au sein d'une équipe agile de Xebia.</p>",
+                                                 "lastName": "Hebert",
+                                                 "firstName": "Alexandre"
+  },
+
+  {
+                                                   "id": "35",
+                                                   "conferenceId": 19,
+                                                   "lang": "fr",
+                                                   "blog": "http://blog.xebia.fr",
+                                                   "tweetHandle": "@dimapod79",
+                                                   "imageURL": "http://www.xebicon.fr/images/speaker/dmytro_podyachiy.JPG",
+                                                   "company": "Xebia",
+                                                   "bio": "<p>Développeur full stack passionné par le monde open source, Dmytro travaille depuis plusieurs années dans l’ecosystème Java sur des missions innovantes. Évangéliste du framework Angular, il l’utilise depuis presque 3 ans. Interessé par les langages differents, il utilise notamment Scala et Javascript coté serveur.</p>",
+                                                   "lastName": "Podyachiy",
+                                                   "firstName": "Dmytro"
+    },
+
+    {
+                                                       "id": "36",
+                                                       "conferenceId": 19,
+                                                       "lang": "fr",
+                                                       "blog": null,
+                                                       "tweetHandle": "@jguillement",
+                                                       "imageURL": "http://www.xebicon.fr/images/speaker/jerome-guillement.jpg",
+                                                       "company": "Louis Vuitton",
+                                                       "bio": "<p>N/C</p>",
+                                                       "lastName": "Guillement",
+                                                       "firstName": "Jérôme"
+    },
+
+    {
+                                                           "id": "37",
+                                                           "conferenceId": 19,
+                                                           "lang": "fr",
+                                                           "blog": "http://blog.xebia.fr",
+                                                           "tweetHandle": "@llegardeur",
+                                                           "imageURL": "http://www.xebicon.fr/images/speaker/luc_legardeur.png",
+                                                           "company": "Xebia",
+                                                           "bio": "<p>Président fondateur de Xebia et sponsor de la première heure de Devoxx, je suis également auteur du contrat agile, fondateur du French SUG et Investisseur dans l'IT et j'ai le plaisir de participer aux aventures suivantes : XebiaLabs, Cellenza, Thiga, UX REPUBLIC, WeScale et Akamis.</p>",
+                                                           "lastName": "Legardeur",
+                                                           "firstName": "Luc"
+        }
+
+]
+

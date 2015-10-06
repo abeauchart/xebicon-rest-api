@@ -1,0 +1,16 @@
+[
+  {
+     "id":19,
+     "backgroundUrl":"http://blog.xebia.fr/wp-content/uploads/2015/09/xebicon_background.png",
+     "logoUrl":"http://blog.xebia.fr/wp-content/uploads/2015/09/xebicon-tagline1.png",
+     "iconUrl":"http://blog.xebia.fr/wp-content/uploads/2015/09/xebicon-logo.png",
+     "from":"2015-11-04",
+     "name":"XebiCon 2015",
+     "description":"XebiCon 2015",
+     "location":"Paris",
+     "baseUrl":"http://xebicon.fr",
+     "timezone":"Europe/Paris",
+     "enabled":true,
+     "to":"2015-11-04"
+  }
+]
