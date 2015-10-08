@@ -3,6 +3,7 @@ var url = require('url');
 var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
+var _ = require('lodash');
 var defaultCharset = 'utf8';
 
 app.set('port', process.env.PORT || 8989);
@@ -14,19 +15,42 @@ app.use(bodyParser.urlencoded({
 
 /* JapScan */
 app.get('/conferences', function(req, res){
-    returnHtmlFile('conferences', res);
+    returnJsonFile('conferences', res);
 });
 
 app.get('/conferences/19/schedule', function(req, res){
-    returnHtmlFile('schedule', res);
+    returnJsonFile('schedule', res);
 });
 
 app.get('/conferences/19/speakers', function(req, res){
-    returnHtmlFile('speakers', res);
+    returnJsonFile('speakers', res);
+});
+
+app.get('/conferences/19/tracks', function(req, res){
+    fs.readFile('data/schedule.json', defaultCharset, function (err, data) {
+        if (err) {
+            res.status(500);
+        }
+
+        tracks = _.map(_.filter(JSON.parse(data), function(talk){
+            return talk.kind === "keynote" || talk.kind === "talk" ;
+        }), function (talk) {
+                return {
+                    id: talk.id,
+                    name: talk.track,
+                    description:"",
+                    conferenceId:18,
+                    descriptionPlainText:""
+                }
+            })
+
+        res.type('application/json; charset=' + defaultCharset);
+        res.status(200).send(tracks);
+    });
 });
 
 
-function returnHtmlFile(fileName, res) {
+function returnJsonFile(fileName, res) {
     res.type('application/json; charset=' + defaultCharset);
     fs.readFile('data/' + fileName + '.json', defaultCharset, function (err, data) {
         if (err) {
