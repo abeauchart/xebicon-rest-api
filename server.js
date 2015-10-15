@@ -36,16 +36,17 @@ app.get('/conferences/19/tracks', function(req, res){
             return talk.kind === "keynote" || talk.kind === "talk" ;
         }), function (talk) {
                 return {
-                    id: talk.id,
-                    name: talk.track,
-                    description:"",
-                    conferenceId:18,
-                    descriptionPlainText:""
+                    'name': talk.track,
+                    'description':"",
+                    'conferenceId':18,
+                    'descriptionPlainText':""
                 }
             })
 
         res.type('application/json; charset=' + defaultCharset);
-        res.status(200).send(tracks);
+        res.status(200).send(_.uniq(tracks, function(obj){
+            return obj.name;
+        }));
     });
 });
 
