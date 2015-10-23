@@ -481,6 +481,19 @@
                                                            "bio": "<p>Président fondateur de Xebia et sponsor de la première heure de Devoxx, je suis également auteur du contrat agile, fondateur du French SUG et Investisseur dans l'IT et j'ai le plaisir de participer aux aventures suivantes : XebiaLabs, Cellenza, Thiga, UX REPUBLIC, WeScale et Akamis.</p>",
                                                            "lastName": "Legardeur",
                                                            "firstName": "Luc"
+        },
+        
+        {
+                                                           "id": "38",
+                                                           "conferenceId": 19,
+                                                           "lang": "fr",
+                                                           "blog": "http://blog.xebia.fr",
+                                                           "tweetHandle": null,
+                                                           "imageURL": "http://www.xebicon.fr/images/speaker/amine_benhenni.jpg",
+                                                           "company": "Xebia",
+                                                           "bio": "<p>Avec plus de 7 ans d‘expérience dans la modélisation mathématique et l’analyse statistique des données, dont 3 en tant que Chief Data Scientist, Amine a eu l’occasion d’intervenir sur de nombreux projets pour le développement de produits Data Driven prédictifs, pour la valorisation des silos de données en entreprise. Le succès de ses missions repose sur un savant mélange de compréhension claire des objectifs business des clients, avec les possibilités offertes par les spécificités des outils techniques d’analyse et d’exploitation des données.</p>",
+                                                           "lastName": "Benhenni",
+                                                           "firstName": "Amine"
         }
 
 ]
