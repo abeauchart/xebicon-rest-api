@@ -98,7 +98,7 @@
       "tweetHandle": "@edemorgoli",
       "imageURL": "http://www.xebicon.fr/images/speaker/eric_demorgoli.jpg",
       "company": "Axa Tech",
-      "bio": "<p>N/C</p>",
+      "bio": "<p>Les nouvelles technologies ont un impact majeur sur le métier de l’Assurance. Pour une grande entreprise il est plus que jamais important d'innover et pourtant les freins sont nombreux. Fort heureusement il existe des moyens pour lever les blocages.</p>",
       "lastName": "De Morgoli",
       "firstName": "Eric"
    },
@@ -255,8 +255,8 @@
       "blog": null,
       "tweetHandle": null,
       "imageURL": "http://www.xebicon.fr/images/speaker/marie_laure_casse.jpg",
-      "company": "Voyages-SNCF.com",
-      "bio": "<p>Directrice marketing digital de Voyages-sncf.com depuis mai 2011, Marie-Laure Cassé a d'abord rejoint le groupe en juillet 2010 au poste de directrice fidélisation et responsable marketing clients chez Voyages-sncf.com. Auparavant, elle a exercé plusieurs fonctions au département marketing de La Fnac. Marie-Laure Cassé est diplômée de l'ESCP Europe.</p>",
+      "company": "Voyages-sncf.com",
+      "bio": "<p>Chez Voyages-sncf.com depuis 2010, Marie-Laure Cassé a occupé la fonction de directrice marketing digital avant de prendre la responsabilité depuis un an du « Big data client » dont les missions consistent grâce à l’exploitation de la data à développer la connaissance clients, à implémenter des solutions pour mieux personnaliser l’expérience utilisateur, à booster la performance du marketing digital etc. Auparavant, elle a exercé plusieurs fonctions au sein du marketing de La Fnac. Marie-Laure Cassé est diplômée de l'ESCP Europe.</p>",
       "lastName": "Cassé",
       "firstName": "Marie-Laure"
     },
@@ -295,7 +295,7 @@
                   "tweetHandle": null,
                   "imageURL": null,
                   "company": "Orange",
-                  "bio": "<p>N/C</p>",
+                  "bio": "<p>Frank Derville évolue depuis plus de 7 ans chez Orange. Il est aujourd'hui Directeur de la performance et de la transformation au TechnoCentre de Orange.</p>",
                   "lastName": "Derville",
                   "firstName": "Franck"
     },
@@ -387,7 +387,7 @@
                                          "tweetHandle": null,
                                          "imageURL": "http://www.xebicon.fr/images/speaker/nicolas_bourgeois.png",
                                          "company": "Société Générale",
-                                         "bio": "<p>IT Manager Finance à la Société Générale</p>",
+                                         "bio": "<p>Nicolas Bourgeois est responsable informatique chez Société Générale. Il intervient sur les applications pre-closing des financements structurés depuis 2 ans. Auparavant, Nicolas a travaillé sur des problématiques de sécurité informatique, enjeu majeur dans le secteur bancaire, ainsi que la gestion des process IT. Il est diplomé en informatique de l’IUT d’Orsay et en biologie moléculaire de l’université Paris XII.</p>",
                                          "lastName": "Bourgeois",
                                          "firstName": "Nicolas"
    },
@@ -400,7 +400,7 @@
                                            "tweetHandle": null,
                                            "imageURL": "http://www.xebicon.fr/images/speaker/Antoine_Visonneau.jpg",
                                            "company": "UX-Republic",
-                                           "bio": "<p>Directeur associé de UX-Republic et UX-Evangelist</p>",
+                                           "bio": "<p>Antoine VISONNEAU est UX-Evangelist et directeur associé d’UX-Republic. Il intervient sur des problématiques User Experience (UX) allant de l’optimisation de parcours clients pour les marques (LVMH, Renault) à l’ergonomie des interfaces pour l’industrie (Thales, GDF) en s’appuyant sur le design thinking. Antoine est diplômé d’Harvard University et enseigne le design interactif à Gobelins.</p>",
                                            "lastName": "Visonneau",
                                            "firstName": "Antoine"
   },
@@ -465,7 +465,7 @@
                                                        "tweetHandle": "@jguillement",
                                                        "imageURL": "http://www.xebicon.fr/images/speaker/jerome-guillement.jpg",
                                                        "company": "Louis Vuitton",
-                                                       "bio": "<p>N/C</p>",
+                                                       "bio": "<p>Mobility & Innovation Manager</p>",
                                                        "lastName": "Guillement",
                                                        "firstName": "Jérôme"
     },
