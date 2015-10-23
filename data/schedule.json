@@ -1,7 +1,7 @@
 [
   {
     "conferenceId": 19,
-    "fromTime": "2015-11-04 08:00",
+    "fromTime": "2015-11-04 08:30",
     "toTime": "2015-11-04 09:00",
     "id": "welcome_8h0_9h0",
     "speakers": [
@@ -38,8 +38,8 @@
   {
     "conferenceId": 19,
     "fromTime": "2015-11-04 18:40",
-    "toTime": "2015-11-04 22:00",
-    "id": "cocktail_18h30_22h00",
+    "toTime": "2015-11-04 21:00",
+    "id": "cocktail_18h30_21h00",
     "speakers": [
     ],
     "partnerSlot": false,
@@ -49,8 +49,8 @@
     "track": "",
     "kind": "break",
     "type": "cocktail",
-    "code": "cocktail_18h40_22h00",
-    "title": "Cocktail dinatoire"
+    "code": "cocktail_18h40_21h00",
+    "title": "Cocktail de clôture"
   },
 
 
@@ -79,7 +79,7 @@
     "kind": "keynote",
     "type": "Témoignage",
     "code": "DNL-9930",
-    "title": "Keynote d'ouverture AXA : Transformation digitale, les enjeux d'un grand groupe"
+    "title": "Keynote d'ouverture : AXA - Transformation digitale, les enjeux d'un grand groupe"
   },
 
   {
@@ -91,7 +91,7 @@
       {
         "id": "4",
         "uri": "",
-        "name": "Jean-François Caean"
+        "name": "Jean-François Caenen"
       },
 
       {
@@ -103,30 +103,36 @@
     "partnerSlot": false,
     "note": "",
     "summary": "<p>Ingenico a conçu une nouvelle génération de plateforme de services pour les marchands. <br/>Dans le cadre de sa stratégie de développement des services autour de l’acceptation de paiement, Ingenico a conçu une nouvelle génération de plateforme de services pour les marchands. À partir des enjeux du projet (extensibilité, adaptation par pays, volumes et continuité de service), nous présenterons les choix technologiques effectués et l’architecture réactive à base de microservices qui a été mise en œuvre. Un premier retour d’expérience sera effectué.</p>",
-    "room": "Salle 1",
+    "room": "Berlin",
     "track": "Back",
     "kind": "talk",
     "type": "Témoignage",
     "code": "DNL-9931",
-    "title": "Témoignage Ingenico : Microservices et architecture réactive pour une nouvelle plateforme de services autour du paiement en magasin"
+    "title": "Témoignage Ingenico - Microservices et architecture réactive pour une nouvelle plateforme de services autour du paiement en magasin"
   },
 
   {
     "conferenceId": 19,
-    "fromTime": "2015-11-04 16:25",
-    "toTime": "2015-11-04 17:25",
+    "fromTime": "2015-11-04 13:45",
+    "toTime": "2015-11-04 14:45",
     "id": "3",
     "speakers": [
       {
         "id": "1",
         "uri": "",
         "name": "Julien Buret"
+      },
+      
+      {
+        "id": "38",
+        "uri": "",
+        "name": "Amine Benhenni"
       }
     ],
     "partnerSlot": false,
     "note": "",
     "summary": "<p>Big Data, Data Science, cluster Hadoop, Machine Learning, etc. Aujourd'hui, impossible de passer à côté de ce phénomène vers lequel de plus en plus d'entreprises se tournent. Au-delà des mots et de la tendance, comment réellement tirer parti de toutes vos données et en tirer un véritable avantage concurrentiel ? La réponse se résume en quelques mots : monter un Data Lab. Au cours de cette présentation, nous vous proposons de définir ce qu'est réellement un Data Lab, de comprendre les grandes étapes essentielles pour le monter de manière intelligente, d'identifier les profils nécessaires à son bon fonctionnement et de savoir comment optimiser son utilisation pour en tirer une vraie valeur ajoutée pour votre entreprise.</p>",
-    "room": "Salle 2",
+    "room": "Auditorium",
     "track": "Data",
     "kind": "talk",
     "type": "Conférence",
@@ -136,25 +142,31 @@
 
   {
       "conferenceId": 19,
-      "fromTime": "2015-11-04 13:45",
-      "toTime": "2015-11-04 14:45",
+      "fromTime": "2015-11-04 16:25",
+      "toTime": "2015-11-04 17:25",
       "id": "4",
       "speakers": [
         {
           "id": "2",
           "uri": "",
           "name": "Jean-Pascal Thiery"
+        },
+        
+        {
+          "id": "39",
+          "uri": "",
+          "name": "Jérôme Doucet"
         }
       ],
       "partnerSlot": false,
       "note": "",
       "summary": "<p>Apache Mesos est le système d'exploitation du Data Center. Alors que les architectures microservices prennent leur essort, vous seriez en droit de vous demander comment faire pour optimiser l'exploitation des ressources de votre Data Center. La virtualisation a permit de réduire les coûts liés à l'infrastructure en mutualisant les ressources. Il est maintenant possible de créer une machine virtuelle en quelques minutes. Les architecture microservices permettent de redimensionner le nombre de service au plus près des besoins. Les quelques minutes de déploiement/provionning de la VMs ne permettent pas de tirer partie des promesses des architectures microservices. Mais alors, comment faire ? Venez découvrir comment Mesos, Marathon et Docker vous permettent d'exploiter au mieux les ressources de votre Data Center.</p>",
-      "room": "Salle 4",
-      "track": "Data",
+      "room": "Auditorium",
+      "track": "DevOps",
       "kind": "talk",
       "type": "Conférence",
       "code": "DNL-9932",
-      "title": "Apache Mesos, ou comment exploiter les ressources de votre Data Center"
+      "title": "Apache Mesos, ou comment exploiter les ressources de votre datacenter ?"
     },
 
     {
@@ -172,18 +184,18 @@
           "partnerSlot": false,
           "note": "",
           "summary": "<p>N/C</p>",
-          "room": "Auditorium",
+          "room": "Bruxelles",
           "track": "Mobilité",
           "kind": "talk",
           "type": "Témoignage",
           "code": "DNL-9932",
-          "title": "Témoignage Louis Vuitton : Digitalisation, de l’utilisation du mobile dans le retail"
+          "title": "Témoignage Louis Vuitton - Digitalisation, de l’utilisation du mobile dans le retail"
     },
 
     {
           "conferenceId": 19,
-          "fromTime": "2015-11-04 17:40",
-          "toTime": "2015-11-04 18:40",
+          "fromTime": "2015-11-04 10:15",
+          "toTime": "2015-11-04 11:15",
           "id": "6",
           "speakers": [
             {
@@ -210,19 +222,14 @@
 
     {
               "conferenceId": 19,
-              "fromTime": "2015-11-04 16:25",
-              "toTime": "2015-11-04 17:25",
+              "fromTime": "2015-11-04 17:40",
+              "toTime": "2015-11-04 18:40",
               "id": "7",
               "speakers": [
                 {
                   "id": "8",
                   "uri": "",
                   "name": "Eric De Morgoli"
-                },
-                {
-                              "id": "",
-                              "uri": "",
-                              "name": ""
                 }
               ],
               "partnerSlot": false,
@@ -238,8 +245,8 @@
 
      {
                    "conferenceId": 19,
-                   "fromTime": "2015-11-04 11:30",
-                   "toTime": "2015-11-04 12:30",
+                   "fromTime": "2015-11-04 15:00",
+                   "toTime": "2015-11-04 16:00",
                    "id": "8",
                    "speakers": [
                      {
@@ -256,7 +263,7 @@
                    "partnerSlot": false,
                    "note": "",
                    "summary": "<p>Le Machine Learning, sous-ensemble de l'Intelligence Artificielle, est la discipline donnant à un ordinateur la capacité d'apprendre sans avoir été explicitement programmé, en se basant sur des données d'entrée. Systèmes de recommandations, détection de fraude, prédiction de ventes, segmentation de clients: ses champs d'applications sont nombreux. Venez découvrir à travers cette présentation ce qui se cache derrière ces mots, quels algorithmes existent, comment ils fonctionnent, avec quels outils, dans quel cas et comment les utiliser.</p>",
-                   "room": "Salle 3",
+                   "room": "Berlin",
                    "track": "Data",
                    "kind": "talk",
                    "type": "Conférence",
@@ -266,36 +273,31 @@
 
      {
                         "conferenceId": 19,
-                        "fromTime": "2015-11-04 17:40",
-                        "toTime": "2015-11-04 18:40",
+                        "fromTime": "2015-11-04 16:25",
+                        "toTime": "2015-11-04 17:25",
                         "id": "9",
                         "speakers": [
                           {
                             "id": "11",
                             "uri": "",
                             "name": "Aurélien Maury"
-                          },
-                          {
-                                        "id": "12",
-                                        "uri": "",
-                                        "name": "Séven Le Mesle"
                           }
                         ],
                         "partnerSlot": false,
                         "note": "",
                         "summary": "<p>Le Cloud, tout le monde en a un bout dans la poche, beaucoup d'entreprises vivent dedans, et bien plus encore souhaitent s'y établir. Mais qu'est-ce que 'Le Cloud' exactement ? La définition du Cloud se perd dans les campagnes marketing des marchands de rêves. Les potentialités ouvertes par le Cloud en ce début de l'ère Internet sont énormes. Venez écoutez l'histoire du Cloud dans son entièreté. Nous vous raconterons sa naissance, sa croissance et ses futurs potentiels. Nous verrons ensemble quels avantages tirer du Cloud en étudiant différents cas d'entreprises : éditeurs de logiciels, startups, acteur du premier âge du web et autres. Le Cloud, que vous en soyez un client, un bâtisseur ou un aspirant, vous êtes les bienvenus pour partager notre vision de ce mouvement qui débute.</p>",
-                        "room": "Salle 3",
+                        "room": "Bruxelles",
                         "track": "Cloud",
                         "kind": "talk",
                         "type": "Conférence",
                         "code": "DNL-9932",
-                        "title": "Dessine moi un nuage"
+                        "title": "WeScale - Dessine moi un nuage"
      },
 
      {
                              "conferenceId": 19,
-                             "fromTime": "2015-11-04 17:40",
-                             "toTime": "2015-11-04 18:40",
+                             "fromTime": "2015-11-04 15:00",
+                             "toTime": "2015-11-04 16:00",
                              "id": "10",
                              "speakers": [
                                {
@@ -312,18 +314,18 @@
                              "partnerSlot": false,
                              "note": "",
                              "summary": "<p>N/C</p>",
-                             "room": "Salle 1",
+                             "room": "Auditorium",
                              "track": "DevOps",
                              "kind": "talk",
                              "type": "Témoignage",
                              "code": "DNL-9932",
-                             "title": "Témoignage Société Générale : DevOps à grande échelle, bénéfices et difficultés"
+                             "title": "Témoignage SGCIB - DevOps à grande échelle, bénéfices et difficultés"
      },
 
      {
                                   "conferenceId": 19,
-                                  "fromTime": "2015-11-04 15:00",
-                                  "toTime": "2015-11-04 16:00",
+                                  "fromTime": "2015-11-04 13:45",
+                                  "toTime": "2015-11-04 14:45",
                                   "id": "11",
                                   "speakers": [
                                     {
@@ -340,18 +342,18 @@
                                   "partnerSlot": false,
                                   "note": "",
                                   "summary": "<p>Venez découvrir avec nous le marché de l’IOT, ses usages, sa situation actuelle et son développement futur au travers d’un retour d’expérience du projet Hub Numérique de Docapost. Ces dernières années ont vu une explosion du nombre d’objets connectés à Internet. La gestion et l’utilisation de ces objets sont devenues un vrai casse-tête pour l’utilisateur au quotidien. La sécurité, la vie privée, les multiples applications que l’on finit par oublier, et aussi le fait que chaque objet n’existe que pour une seule logique de service sont autant de facteurs rebutant les utilisateurs. Les opportunités que ces objets représentent pour les entreprises sont indéniables, mais se heurtent elles aussi à ces complexités et à un foisonnement difficile à maîtriser. Le Hub Numérique développé par Docapost a pour ambition d’offrir une solution simple, sécurisée, multi-fabricant et multi-support : chacun pourra désormais maîtriser ses objets de façon simple, les faire interagir, en partager les données d’un simple clic et bénéficier de nouveaux services connectés. Centré sur l'usage et la confiance pour chacun, le Hub Numérique est ainsi la porte d'accès pour les entreprises et aux nouveaux services qu'elles peuvent proposer à leurs clients. Venez découvrir avec nous le marché de l’IOT, ses usages, sa situation actuelle et son développement futur au travers d’un retour d’expérience du projet Hub Numérique de Docapost.</p>",
-                                  "room": "Auditorium",
+                                  "room": "Namur",
                                   "track": "IoT",
                                   "kind": "talk",
                                   "type": "Témoignage",
                                   "code": "DNL-9932",
-                                  "title": "Témoignage Docapost : IoT, faciliter la vie connectée grâce à un Hub numérique"
+                                  "title": "Témoignage Docapost - IoT, faciliter la vie connectée grâce à un Hub numérique"
      },
 
      {
                                        "conferenceId": 19,
-                                       "fromTime": "2015-11-04 16:25",
-                                       "toTime": "2015-11-04 18:40",
+                                       "fromTime": "2015-11-04 13:45",
+                                       "toTime": "2015-11-04 16:00",
                                        "id": "12",
                                        "speakers": [
                                          {
@@ -368,7 +370,7 @@
                                        "partnerSlot": false,
                                        "note": "",
                                        "summary": "<p>Kafka est devenu en quelques temps un outil central dans les architectures d'analyses de données. Ce journal distribué repose sur quelques principes simples qui en font un outil performant et robuste et lui offre une scalabilité presque linéaire. Nous vous proposons de comprendre par la pratique quelques concepts techniques en codant un système de production/consommation de messages.</p>",
-                                       "room": "Salle 4",
+                                       "room": "Amsterdam",
                                        "track": "Back",
                                        "kind": "talk",
                                        "type": "Atelier",
@@ -377,8 +379,8 @@
      },
     {
                                        "conferenceId": 19,
-                                       "fromTime": "2015-11-04 16:25",
-                                       "toTime": "2015-11-04 17:25",
+                                       "fromTime": "2015-11-04 13:45",
+                                       "toTime": "2015-11-04 14:45",
                                        "id": "13",
                                        "speakers": [
                                          {
@@ -391,12 +393,12 @@
                                        "partnerSlot": false,
                                        "note": "",
                                        "summary": "<p>Nous développons et livrons du logiciel plus vite que jamais, ou du moins nous le souhaitons. De nombreux obstacles empêchent généralement cet objectif : ségrégations technologiques, méthodes de travail, dispersion des équipes, manque de traçabilité, etc. Cette présentation est 100% « No Silver Bullet », toutefois vous y trouverez des réponses concrètes à vos problèmes.</p>",
-                                       "room": "Salle 3",
+                                       "room": "Berlin",
                                        "track": "Cloud",
                                        "kind": "talk",
-                                       "type": "Témoignage",
+                                       "type": "Conférence",
                                        "code": "DNL-9932",
-                                       "title": "Témoignage Cellenza : Développez et déployez vos applications multiplateformes dans le Cloud"
+                                       "title": "Cellenza - Développez et déployez vos applications multiplateformes dans le Cloud"
      },
 
      {
@@ -420,13 +422,13 @@
                                             "kind": "talk",
                                             "type": "Témoignage",
                                             "code": "DNL-9932",
-                                            "title": "Témoignage Voyages-SNCF.com : les apports de la Data Science à la connaissance client"
+                                            "title": "Témoignage Voyages-sncf.com - Les apports de la Data Science à la connaissance client"
      },
 
      {
                                                  "conferenceId": 19,
-                                                 "fromTime": "2015-11-04 10:15",
-                                                 "toTime": "2015-11-04 11:15",
+                                                 "fromTime": "2015-11-04 11:30",
+                                                 "toTime": "2015-11-04 12:30",
                                                  "id": "15",
                                                  "speakers": [
                                                    {
@@ -442,15 +444,15 @@
                                                  "room": "Auditorium",
                                                  "track": "Agile",
                                                  "kind": "talk",
-                                                 "type": "Témoignage",
+                                                 "type": "Conférences",
                                                  "code": "DNL-9932",
-                                                 "title": "Témoignage Thiga : Évaluer votre maturité produit"
+                                                 "title": "Thiga : Évaluer votre maturité produit"
      },
 
      {
                                                       "conferenceId": 19,
-                                                      "fromTime": "2015-11-04 13:45",
-                                                      "toTime": "2015-11-04 14:45",
+                                                      "fromTime": "2015-11-04 16:25",
+                                                      "toTime": "2015-11-04 17:25",
                                                       "id": "16",
                                                       "speakers": [
                                                         {
@@ -473,19 +475,19 @@
                                                       ],
                                                       "partnerSlot": false,
                                                       "note": "",
-                                                      "summary": "<p>N/C</p>",
-                                                      "room": "Auditorium",
+                                                      "summary": "<p>Comment implémenter l'agilité dans un grand groupe international? Comment répondre au besoins de proximité que demande l'agilité lorsque l'on travaille à distance ? C'est en essayant de répondre à ses questions que Orange a initié son initiative ONE ROOF. Son but ? Accompagner les équipes du Technocentre dans leur montée en compétence sur la conception de produit innovant en agile, tout en réfléchissant sur les moyens à apporter pour améliorer le cadre de travail de ses salariés. Venez découvrir ce retour d'expérience, où vous visiterez la villa, un open Space 3.0 dédié à la modularité et à l'échange , mais vous rencontrez également Ubi, notre robot de télé présence.</p>",
+                                                      "room": "Berlin",
                                                       "track": "Agile",
                                                       "kind": "talk",
                                                       "type": "Témoignage",
                                                       "code": "DNL-9932",
-                                                      "title": "Témoignage Orange Technocentre : Méthodes agiles, se transformer pour innover"
+                                                      "title": "Témoignage Orange Technocentre - Méthodes agiles, se transformer pour innover"
      },
 
      {
                                                            "conferenceId": 19,
-                                                           "fromTime": "2015-11-04 15:00",
-                                                           "toTime": "2015-11-04 16:00",
+                                                           "fromTime": "2015-11-04 13:45",
+                                                           "toTime": "2015-11-04 14:45",
                                                            "id": "17",
                                                            "speakers": [
                                                              {
@@ -498,18 +500,18 @@
                                                            "partnerSlot": false,
                                                            "note": "",
                                                            "summary": "<p>L'Ops d'hier maître absolu des clés dès la production n'est plus ! Les nouvelles tendances issues du lean startup, du cloud et du mouvement DevOps transforment nos métiers. Entre la culture de l'innovation, le continuous delivery et le besoin toujours plus fort d'élasticité le métier des Ops se réinvente. Ne vous laissez pas abuser par l'apparente bonhomie de ce que certains appellent déjà 'No Ops'. Venez découvrir le travail de l'Ops de demain. Nous verrons ensemble son nouveau rôle dans une équipe DevOps. De la validation du code de provisionning au test en continue de l'infrastructure, le défi des Ops est maintenant de pouvoir déléguer aux équipes le déploiement des projet en toute tranquillité. Plus encore qu'un agiliste ou qu'un craftman, le nouvel Ops est le soutien dont vous avez besoin.</p>",
-                                                           "room": "Salle 3",
+                                                           "room": "Bruxelles",
                                                            "track": "DevOps",
                                                            "kind": "talk",
                                                            "type": "Conférence",
                                                            "code": "DNL-9932",
-                                                           "title": "Le Nouvel Obs"
+                                                           "title": "WeScale - Le Nouvel Obs"
      },
 
      {
                                                                 "conferenceId": 19,
-                                                                "fromTime": "2015-11-04 17:40",
-                                                                "toTime": "2015-11-04 18:40",
+                                                                "fromTime": "2015-11-04 16:25",
+                                                                "toTime": "2015-11-04 17:25",
                                                                 "id": "18",
                                                                 "speakers": [
                                                                   {
@@ -522,7 +524,7 @@
                                                                 "partnerSlot": false,
                                                                 "note": "",
                                                                 "summary": "<p>Parlons Web Assembly, asmjs, SIMD ! Web Assembly, asmjs, SIMD autant de technologies/techniques qui nous font miroiter la promesse de performances (presque) natives pour les applications web. Venez découvrir ce qui se cache derrière ces technologies à travers une plongée dans les moteurs Javascript.</p>",
-                                                                "room": "Salle 1",
+                                                                "room": "Namur",
                                                                 "track": "Front",
                                                                 "kind": "talk",
                                                                 "type": "Conférence",
@@ -532,8 +534,8 @@
 
      {
                                                                      "conferenceId": 19,
-                                                                     "fromTime": "2015-11-04 16:25",
-                                                                     "toTime": "2015-11-04 17:25",
+                                                                     "fromTime": "2015-11-04 17:40",
+                                                                     "toTime": "2015-11-04 18:40",
                                                                      "id": "19",
                                                                      "speakers": [
                                                                        {
@@ -546,12 +548,12 @@
                                                                      "partnerSlot": false,
                                                                      "note": "",
                                                                      "summary": "<p>Les techniques d’acquisition traditionnelles sont en pertes de performance. Malgré ce bilan, le plus grand nombre reste accroché aux techniques monocanales tels que SEO, achats de mots clefs, achat d’audience non qualifiée ou qui pensent encore qu’une refonte ergonomique va tout résoudre. Le monde du Digital change et le marketing avec. Les utilisateurs, leurs attentes et leurs usages évoluent et on ne peut plus les intéresser avec les mêmes méthodes… Le sel sur la queue des pigeons… C’était avant !</p>",
-                                                                     "room": "Salle 1",
-                                                                     "track": "Digital",
+                                                                     "room": "Bruxelles",
+                                                                     "track": "Marketing",
                                                                      "kind": "talk",
-                                                                     "type": "Témoignage",
+                                                                     "type": "Conférence",
                                                                      "code": "DNL-9932",
-                                                                     "title": "Témoignage Akamis : Marketing digital, les nouvelles méthodes d'acquisition client"
+                                                                     "title": "Akamis - Marketing digital, les nouvelles méthodes d'acquisition client"
      },
 
      {
@@ -570,7 +572,7 @@
                                                                           "partnerSlot": false,
                                                                           "note": "",
                                                                           "summary": "<p>Construire une base de données distribuée, scalable et hautement disponible est une opération extrêmement complexe. Dans cette présentation, nous allons voir en détail certains des mécanismes utilisés pour le fonctionnement interne de Cassandra, l'une des bases NoSQL les plus populaires actuellement. Au programme de cette session : Comment les informations sont répliquées dans un cluster, comment sont réalisées les écritures et les lectures et comment Cassandra arrive à les garder (relativement) rapides. Enfin nous verrons comment les machines d'un cluster parviennent à se mettre d'accord à l'aide d'un algorithme distribué nommé Paxos.</p>",
-                                                                          "room": "Salle 3",
+                                                                          "room": "Namur",
                                                                           "track": "Data",
                                                                           "kind": "talk",
                                                                           "type": "Conférence",
@@ -599,7 +601,7 @@
                                                                                "partnerSlot": false,
                                                                                "note": "",
                                                                                "summary": "<p>Après une rapide introduction à l'outil, nous présenterons le code d'une application développé en mode microservices. Ce sera aussi l'occasion d'évoquer les principes de circuit breaker et de monitoring ainsi que de savoir comment Spring Boot permet de les réaliser.</p>",
-                                                                               "room": "Salle 4",
+                                                                               "room": "Namur",
                                                                                "track": "Craft",
                                                                                "kind": "talk",
                                                                                "type": "Conférence",
@@ -609,8 +611,8 @@
 
      {
                                                                                     "conferenceId": 19,
-                                                                                    "fromTime": "2015-11-04 13:45",
-                                                                                    "toTime": "2015-11-04 14:45",
+                                                                                    "fromTime": "2015-11-04 11:30",
+                                                                                    "toTime": "2015-11-04 12:30",
                                                                                     "id": "22",
                                                                                     "speakers": [
                                                                                       {
@@ -623,18 +625,18 @@
                                                                                     "partnerSlot": false,
                                                                                     "note": "",
                                                                                     "summary": "<p>Les méthodes agile (Scrum / Kanban) permettent un meilleur recueil des besoins et les transforment rapidement en une implementation. Cependant, la route est longue pour arriver jusqu’à l’utilisateur final : déploiement, configuration, tests (unitaire, fonctionnels, non reg), validation, etc. sont différentes tâches à effectuer et à coordonner. Et finalement combien de temps entre la demande d'une nouvelle fonctionnalité métier et sa mise en service ? Cette session présente la solution XL Release de la Société XebiaLabs et montre à travers une intégration simple (JIRA, Jenkins, XL Deploy) qu'il est maintenant possible d'obtenir cette information afin de détecter les éventuels goulets d'étranglement.</p>",
-                                                                                    "room": "Salle 1",
+                                                                                    "room": "Berlin",
                                                                                     "track": "DevOps",
                                                                                     "kind": "talk",
-                                                                                    "type": "Témoignage",
+                                                                                    "type": "Conférence",
                                                                                     "code": "DNL-9932",
-                                                                                    "title": "Témoignage XebiaLabs - XL Release : à la recherche du temps (perdu) entre le Use Case Metier et sa Mise en Service"
+                                                                                    "title": "XebiaLabs - XL Release : à la recherche du temps (perdu) entre le Use Case Metier et sa Mise en Service"
      },
 
      {
                                                                                          "conferenceId": 19,
-                                                                                         "fromTime": "2015-11-04 15:00",
-                                                                                         "toTime": "2015-11-04 16:00",
+                                                                                         "fromTime": "2015-11-04 17:40",
+                                                                                         "toTime": "2015-11-04 18:40",
                                                                                          "id": "23",
                                                                                          "speakers": [
                                                                                            {
@@ -652,19 +654,19 @@
                                                                                          ],
                                                                                          "partnerSlot": false,
                                                                                          "note": "",
-                                                                                         "summary": "<p>N/C</p>",
-                                                                                         "room": "Salle 2",
+                                                                                         "summary": "<p>Venez nous rejoindre pour découvrir comment la société générale a progressivement intégré l’UX Design au sein des équipes agiles. En expérimentant les nouvelles approches Lean UX, le département informatique des financements structurés de la Société Générale (GBIS) a découvert de nouveaux gisements de valeur : satisfaction utilisateur, productivité accrue, grande visibilité, nouveaux usages et optimisation du business.</p>",
+                                                                                         "room": "Berlin",
                                                                                          "track": "UX",
                                                                                          "kind": "talk",
                                                                                          "type": "Témoignage",
                                                                                          "code": "DNL-9932",
-                                                                                         "title": "Témoignage Société Générale et UX Républic : la User eXperience au centre de l'entreprise"
+                                                                                         "title": "Témoignage SGCIB et UX-Republic : la User eXperience au centre de l'entreprise"
      },
 
      {
                                                                                               "conferenceId": 19,
-                                                                                              "fromTime": "2015-11-04 11:30",
-                                                                                              "toTime": "2015-11-04 12:30",
+                                                                                              "fromTime": "2015-11-04 17:40",
+                                                                                              "toTime": "2015-11-04 18:40",
                                                                                               "id": "24",
                                                                                               "speakers": [
                                                                                                 {
@@ -677,7 +679,7 @@
                                                                                               "partnerSlot": false,
                                                                                               "note": "",
                                                                                               "summary": "<p>Face aux problèmes posés par l’agilité à grande échelle, on pense immédiatement méthodes et process, SAFE et Feature Teams en tête de pont. Et si, il existait un autre chemin ? L’agilité c’est l’auto-organisation, pas les process ! Comment peut-on être agile à l’échelle de l’organisation ? Comment s’assurer que l’on puisse continuer à porter l’agilité dans une organisation de milliers ou dizaine de milliers de personnes ? Et si plutôt que Scaling Agile, le mantra était : Scaling Culture ?</p>",
-                                                                                              "room": "Salle 3",
+                                                                                              "room": "Namur",
                                                                                               "track": "Agile",
                                                                                               "kind": "talk",
                                                                                               "type": "Conférence",
@@ -687,8 +689,8 @@
 
      {
                                                                                                         "conferenceId": 19,
-                                                                                                        "fromTime": "2015-11-04 13:45",
-                                                                                                        "toTime": "2015-11-04 14:45",
+                                                                                                        "fromTime": "2015-11-04 15:00",
+                                                                                                        "toTime": "2015-11-04 16:00",
                                                                                                         "id": "25",
                                                                                                         "speakers": [
                                                                                                           {
@@ -701,7 +703,7 @@
                                                                                                         "partnerSlot": false,
                                                                                                         "note": "",
                                                                                                         "summary": "<p>L’approche microservices devient de plus en plus présente dans nos conceptions d’architectures. Souvent critiqué pour sa ressemblance avec l’approche Service Oriented Architecture (SOA), les microservices rencontrent les mêmes problématiques que son ainé (catalogue de services, communication, versionning, etc). Basé sur un retour d’expérience, je vous propose de parcourir ensemble les challenges à remplir pour mettre en place avec succès des architectures microservices. Nous nous interrogerons également pourquoi et comment les microservices ont une chance de fonctionner là où la SOA a échoué.</p>",
-                                                                                                        "room": "Salle 4",
+                                                                                                        "room": "Bruxelles",
                                                                                                         "track": "Back",
                                                                                                         "kind": "talk",
                                                                                                         "type": "Conférence",
@@ -711,8 +713,8 @@
 
      {
                                                                                                    "conferenceId": 19,
-                                                                                                   "fromTime": "2015-11-04 13:45",
-                                                                                                   "toTime": "2015-11-04 16:00",
+                                                                                                   "fromTime": "2015-11-04 16:25",
+                                                                                                   "toTime": "2015-11-04 18:40",
                                                                                                    "id": "26",
                                                                                                    "speakers": [
                                                                                                      {
@@ -731,7 +733,7 @@
                                                                                                    "partnerSlot": false,
                                                                                                    "note": "",
                                                                                                    "summary": "<p>À partir d'une application existante, nous développerons de nouvelles fonctionnalités en mode test-first. Nous partirons des critères d'acceptance pour créer des scénarios BDD et introduire les fonctionnalités dans le code. Afin de valider ces scénarios, nous implémenterons chaque couche en partant du front jusqu'à la base de données en mode TDD. Ce type d'approche est communément connu comme outside–in développement. L'application existante utilise les langages et outils suivant : Java8, AngularJS, Cucumber, Rest-assured, JUnit, Selenium. Matériel nécessaire : son ordinateur avec Java 8, maven et son IDE préféré d'installés et de fonctionnels.</p>",
-                                                                                                   "room": "Salle 4",
+                                                                                                   "room": "Amsterdam",
                                                                                                    "track": "Craft",
                                                                                                    "kind": "talk",
                                                                                                    "type": "Atelier",
@@ -761,7 +763,7 @@
                                                                                                         "partnerSlot": false,
                                                                                                         "note": "",
                                                                                                         "summary": "<p>Après de longs et interminables et TERRIBLES mois d'attente, ce qui devait arriver arrivera : l'annonce de l'arrivée d'Angular 2 arrive ! Courant mai 2015, la team d'Angular a flaggé la version 2.0.0-alpha.27 (version actuelle : alpha.36) en version dite de 'Developer Preview'. Bonne nouvelle : les développeurs, c'est nous ! C'est donc l'occasion de faire ensemble un petit tour d'horizon de cette jeune -et non moins prometteuse- mouture de notre framework JS préféré ! Durant 45 minutes, nous examinerons Angular 2 sous toutes ses coutures : ce qu'il apporte de nouveau, comment l'utiliser, le migrer voire même le tester sans le detester ! Ce rapide tour d'horizon servira de tremplin à un atelier pratique et encadré d'environ un heure ou vous prendrez en main le framework. N'ayez crainte, nul besoin d'être un expert toutes catégories Front confondues, de simples notions de programmation en Javascript suffiront ! Il faudra toutefois vous munir d'un ordinateur sur lequel vous aurez préalablement installé Node.js, Git (optionnel) ainsi que votre IDE préféré.</p>",
-                                                                                                        "room": "Salle 2",
+                                                                                                        "room": "Amsterdam",
                                                                                                         "track": "Front",
                                                                                                         "kind": "talk",
                                                                                                         "type": "Atelier",
@@ -785,7 +787,7 @@
                                                                                                             "partnerSlot": false,
                                                                                                             "note": "",
                                                                                                             "summary": "<p>Manager une boite de Geeks est très particulier. Ces salariés d'un genre à part veulent des nouvelles technos, du temps pour expérimenter, partager la connaissance, faire du Pair Programming, participer à la stratégie d'entreprise et une vraie liberté de parole.</p>",
-                                                                                                            "room": "Salle 2",
+                                                                                                            "room": "Namur",
                                                                                                             "track": "Management",
                                                                                                             "kind": "talk",
                                                                                                             "type": "Conférence",
