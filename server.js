@@ -33,7 +33,7 @@ app.get('/conferences/19/tracks', function(req, res){
         }
 
         tracks = _.map(_.filter(JSON.parse(data), function(talk){
-            return talk.kind === "keynote" || talk.kind === "talk" ;
+            return talk.kind === "talk" ;
         }), function (talk) {
                 return {
                     'name': talk.track,
