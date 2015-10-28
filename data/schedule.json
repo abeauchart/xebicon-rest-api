@@ -160,7 +160,7 @@
       ],
       "partnerSlot": false,
       "note": "",
-      "summary": "<p>Apache Mesos est le système d'exploitation du Data Center. Alors que les architectures microservices prennent leur essort, vous seriez en droit de vous demander comment faire pour optimiser l'exploitation des ressources de votre Data Center. La virtualisation a permit de réduire les coûts liés à l'infrastructure en mutualisant les ressources. Il est maintenant possible de créer une machine virtuelle en quelques minutes. Les architecture microservices permettent de redimensionner le nombre de service au plus près des besoins. Les quelques minutes de déploiement/provionning de la VMs ne permettent pas de tirer partie des promesses des architectures microservices. Mais alors, comment faire ? Venez découvrir comment Mesos, Marathon et Docker vous permettent d'exploiter au mieux les ressources de votre Data Center.</p>",
+      "summary": "<p>Apache Mesos est le système d'exploitation du Data Center. Alors que les architectures microservices prennent leur essort, vous seriez en droit de vous demander comment faire pour optimiser l'exploitation des ressources de votre Data Center. La virtualisation a permi de réduire les coûts liés à l'infrastructure en mutualisant les ressources. Il est maintenant possible de créer une machine virtuelle en quelques minutes. Les architectures microservices permettent de redimensionner le nombre de service au plus près des besoins. Les quelques minutes de déploiement/provionning de la VM ne permettent pas de tirer parti des promesses des architectures microservices. Mais alors, comment faire ? Venez découvrir comment Mesos, Marathon et Docker vous permettent d'exploiter au mieux les ressources de votre Data Center.</p>",
       "room": "Auditorium",
       "track": "DevOps",
       "kind": "talk",
@@ -499,13 +499,13 @@
                                                            ],
                                                            "partnerSlot": false,
                                                            "note": "",
-                                                           "summary": "<p>L'Ops d'hier maître absolu des clés dès la production n'est plus ! Les nouvelles tendances issues du lean startup, du cloud et du mouvement DevOps transforment nos métiers. Entre la culture de l'innovation, le continuous delivery et le besoin toujours plus fort d'élasticité le métier des Ops se réinvente. Ne vous laissez pas abuser par l'apparente bonhomie de ce que certains appellent déjà 'No Ops'. Venez découvrir le travail de l'Ops de demain. Nous verrons ensemble son nouveau rôle dans une équipe DevOps. De la validation du code de provisionning au test en continue de l'infrastructure, le défi des Ops est maintenant de pouvoir déléguer aux équipes le déploiement des projet en toute tranquillité. Plus encore qu'un agiliste ou qu'un craftman, le nouvel Ops est le soutien dont vous avez besoin.</p>",
+                                                           "summary": "<p>L'Ops d'hier maître absolu des clés dès la production n'est plus ! Les nouvelles tendances issues du lean startup, du cloud et du mouvement DevOps transforment nos métiers. Entre la culture de l'innovation, le continuous delivery et le besoin toujours plus fort d'élasticité le métier des Ops se réinvente. Ne vous laissez pas abuser par l'apparente bonhomie de ce que certains appellent déjà 'No Ops'. Venez découvrir le travail de l'Ops de demain. Nous verrons ensemble son nouveau rôle dans une équipe DevOps. De la validation du code de provisionning au test en continu de l'infrastructure, le défi des Ops est maintenant de pouvoir déléguer aux équipes le déploiement des projets en toute tranquillité. Plus encore qu'un agiliste ou qu'un craftman, le nouvel Ops est le soutien dont vous avez besoin.</p>",
                                                            "room": "Bruxelles",
                                                            "track": "DevOps",
                                                            "kind": "talk",
                                                            "type": "Conférence",
                                                            "code": "DNL-9932",
-                                                           "title": "WeScale - Le Nouvel Obs"
+                                                           "title": "WeScale - Le Nouvel Ops"
      },
 
      {
