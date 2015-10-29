@@ -265,13 +265,13 @@
           "id": "21",
           "conferenceId": 19,
           "lang": "fr",
-          "blog": "http://blog.thiga.fr/author/alexandre-irrmann-teze/",
-          "tweetHandle": "@AlexandreIT1",
-          "imageURL": "http://www.xebicon.fr/images/speaker/alexandre_irrmann_teze.jpg",
+          "blog": "http://blog.thiga.fr/author/hgeissmann/",
+          "tweetHandle": "@hgeissmann",
+          "imageURL": "http://www.xebicon.fr/images/speaker/hugo_geissmann.png",
           "company": "Thiga",
-          "bio": "<p>Alexandre est diplômé de Télécom Paristech et est titulaire du mastère Digital Business d’HEC. Avant de créer Thiga, Alexandre a travaillé dans les équipes Télécom & Media de deux cabinets de conseil. Spécialisé en marketing stratégique et organisation, il a notamment réalisé des études d’opportunité de lancement d’offres (Cloud Computing, 4G…) et a cadré un programme visant à diffuser le design thinking au sein d’un opérateur télécom. Alexandre a également travaillé dans une start-up où il a lancé un service numérique à destination des e-commerçants. Au sein de Thiga, Alexandre intervient en tant que coach Produit et expert marketing stratégique.</p>",
-          "lastName": "Irrmann-Tézé",
-          "firstName": "Alexandre"
+          "bio": "<p>Hugo est diplômé de Télécom Bretagne et de la Queensland University of Technology. Ingénieur de formation et geek dans l’âme, Hugo a commencé sa carrière en tant que consultant technique avant de s’orienter vers le business development. En 2011, il crée au sein de Xebia un studio de développement dédié à la réalisation de projets agiles présentant des enjeux forts sur le plan de la technologie et du métier. Fin 2013, Xebia Studio a réalisé une vingtaine de projets et mobilise à plein temps une vingtaine de consultants. Passionné par le monde du numérique et par sa dimension business, Hugo s’est associé à Alexandre Irrmann-Tézé et Luc Legardeur pour créer Thiga.</p>",
+          "lastName": "Geissmann",
+          "firstName": "Hugo"
     },
 
     {
