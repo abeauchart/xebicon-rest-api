@@ -600,7 +600,7 @@
                                                                                ],
                                                                                "partnerSlot": false,
                                                                                "note": "",
-                                                                               "summary": "<p>Après une rapide introduction à l'outil, nous présenterons le code d'une application développé en mode microservices. Ce sera aussi l'occasion d'évoquer les principes de circuit breaker et de monitoring ainsi que de savoir comment Spring Boot permet de les réaliser.</p>",
+                                                                               "summary": "<p>Tu penses que ton code legacy tout moche ne peut pas être migré vers un design alliant CQRS et Event Sourcing ? Nous allons te démontrer que c'est faisable, tout en travaillant avec du code existant et en rajoutant de la qualité. Ce sera aussi l'occasion d'évoquer les principes de circuit breaker et de monitoring ainsi que de savoir comment Spring Boot permet de les réaliser. Architecture design, hardcore refactoring et usage intensif des fonctionnalités de l'IDE seront de la partie lors de ce live coding.</p>",
                                                                                "room": "Namur",
                                                                                "track": "Craft",
                                                                                "kind": "talk",
